@@ -2,8 +2,10 @@
 ''' random number divide 2 times until 1
 it takes input of number of players
 and then the name for each player.
-Those names are stored in the .txt file, 
+Those names are stored in the .txt file,
 that later is modified according to code.
+
+#program can be modified that it doesnt need user input, but can use already prepered .txt file
 
 If the input for the number of players is 10, 
 then it takes this number and divide it by two each time until reaches 1.
