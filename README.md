@@ -19,4 +19,5 @@ There is dictionary for player name and players score and based on that informat
 the first half of player on top of the list goes into next tour. 
 
 
+The program stops when there is one winner.
 '''
